@@ -1,0 +1,106 @@
+.pc-main-content .update-class .update-class-info { margin:10px 0 0 0; }
+.teacher-class .teacher-content .programa-content .pc-main .update-catalogue { margin-top:20px; }
+.teacher-class .teacher-content .programa-content .pc-main .pc-main-content { margin-top:15px; }
+
+.teacher-class .teacher-content .programa-content { width:624px; }
+
+.pc-main-content .update-college-comments .comments-list .list-content { height:auto;padding:10px 20px;line-height:24px; }
+
+.video .video-content .video-catalogue { width:230px;height:100%;background:#fff; }
+.video .video-content .video-catalogue .video-catalogue-content .v-list { border-bottom:1px solid #e9e9e9; }
+
+.teacher-class .user-set-content .programa-content { width:837px; }
+
+.teacher-class .teacher-logo-nav .logo-left .logo-title { padding-top:5px; }
+
+.out-case .relation-list a .attribution .group { color:#555; }
+
+.class-detail .class-detail-info .emphasis-content .emphasis-info { padding:0 20px; }
+.user-info-main .head-portrait .head-content .upload-img .upload-right { border:0;margin-left:0;padding-left:0; }
+
+.class-time-select { width:615px;position:inherit; }
+.class-time-select .class-time-select-head  { box-sizing:border-box; }
+
+.class-detail .class-detail-other .class-detail-other-left .other-left-content .pc-main-content .update-college-comments .update-college-comments-box.on .list-content { background-color:#56abe4;color:#fff; }
+.pc-main-content .update-college-comments .comment-form-buttom button {width: 80px;height: 27px;border-radius:3px ;float: left;color: #fff;text-align: center;margin: 20px 5px auto 5px; line-height: 27px;background: #a9a9a9;}
+
+.comment-reply-btn { float:right;line-height:40px;color:#888;text-decoration:underline; }
+.reply-comment-box { margin-top:10px;background:#f6f6f6;padding:20px 0;display:none; }
+.reply-comment-box .verify-code { float:right;margin-right:14px;margin-top:15px; }
+.reply-comment-box .verify-code img { height:32px;float: right; }
+.reply-comment-box .verify-code input { height:32px;border:1px solid #e9e9e9;border-radius:5px;margin-right:10px; }
+.reply-comment-box button { float:right;margin-top:10px;width:70px;height:32px;text-align:center;line-height:32px;color:#fff;border-radius:5px;border:0;margin-right:14px; }
+
+.message-center .message-center-content .message-center-content-box .message-center-content-list .user .none-show { margin-left:10px; }
+
+.tec-center .tec-other-info .info-left .left-content { max-width:100%; }
+
+.slider .WeChat .show { left:-200px }
+
+.message-center .message-center-content .message-center-content-tap a { width:100px }
+
+.teacher-topbar .message-tip { padding-left:0;background:none; }
+.teacher-topbar .message-tip i{ background:url(../images/message.png) left 1px bottom -2px no-repeat;background-size:22px;display:inline-block;width:24px;height:24px;text-align:center;font-style:normal;font-size:12px; }
+
+.topbar-box .bar-left a { position:relative; }
+.topbar-box .bar-left ul { display:none;margin-top:2px;position:absolute;border:1px solid #eeeeee;width:260px; }
+.topbar-box .bar-left ul li { box-sizing:border-box;height:71px;width:260px;background:#fff;border-bottom:1px solid #eeeeee; }
+.topbar-box .bar-left ul li table { width:100%; }
+.topbar-box .bar-left ul li table td { height:71px; }
+.topbar-box .bar-left ul li .notice-title { width:180px;font-size:12px;padding:0 10px;display:inline-block;line-height:16px; }
+.topbar-box .bar-left ul li .none-show { font-size:12px;line-height:30px;margin-right:10px; }
+.topbar-box .bar-left ul .show-all { display:block;width:100%;height:32px;line-height:32px;background:#ebebeb;text-align:center;color:#676767; }
+
+.account-main .new-attention-student .student-box .student-list { text-align:center; }
+.account-main .new-attention-student .student-box .student-list .head-img img { border-radius:50%; }
+.account-main .new-attention-student .student-box .student-list .list-right { float: none  }
+.account-main .new-attention-student .student-box .student-list .list-right span.vip { width:100%; }
+
+.student-main-content .favorable .favorable-list .favorable-class-name { height:30px; }
+
+.teacher-class .teacher-information .info-box .num .user-info { width:205px;left:0;right:auto; }
+
+.header .search input { height:26px;line-height:26px; }
+
+.content-box a:hover { margin-top:-50px!important; }
+.content-box a.studyabroad:hover { margin-bottom:50px!important; }
+
+.tec-center .tec-other-info .info-left .left-content img { max-width:100%; }
+
+.teacher-class .teacher-content .programa-content .pc-main .class-name a { margin-bottom:10px; }
+
+.record-content { border:0!important; background:#fff;margin-top:20px;height:auto!important; }
+.record-content .title { padding:20px;font-size:18px;color:#555;text-align:center; }
+
+.activity { width:120px;height:80px;margin-top:1px; }
+.nav ul { width:960px; }
+
+.class-detail .class-detail-other .class-detail-other-left .other-left-content .pc-main-content .update-information .update-information-two img { max-width:100% }
+.teacher-class .teacher-information { height:auto; }
+
+.pc-main-content .update-class .edit-btn {display: block;width: 95px;height: 30px;border: 1px solid #995512;border-radius:3px;background: #FF7E00;text-align: center;line-height: 30px;color: #fff;margin-right:4px;}
+
+select {
+    /*border: solid 1px #000;*/
+    appearance:none;
+    -moz-appearance:none;
+    -webkit-appearance:none;
+}
+
+.slideBox { height:395px; }
+
+.index .service { height:auto; }
+.index .service .content { height:auto; }
+.index .service .content .tec-intro img { float:left; }
+
+.about-us .about-text .about-employment.tec-recruitment { padding:0 }
+.about-us .about-text .about-employment.tec-recruitment img { max-width:100%;float:left; }
+
+.teacher-class .teacher-logo-nav .logo-left img { margin:17px 0 }
+
+.teacher-class .teacher-logo-nav .nav-right { padding-top:34px; }
+
+sup {
+    vertical-align: super;
+    font-size: smaller;
+}

@@ -1,0 +1,400 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+    <title>高博教育家-国际课程, 出国语言考试一对一, 一对多在线课堂</title>
+    <meta name="keywords" content="高博,教育,直播,远程教育,视频教育,国际课程,出国留学,留学咨询,雅思,托福"/>
+    <meta name="description" content="高博教育是一家由众多热爱教育行业的国内资深咨询精英与众多海外名校在读学子组成的留学咨询机构，是一群热爱教 育咨询行业的人才施展才能的平台。和创以留学咨询为业务基础，以本科转学留学及海外顾问团队服务为特色，致力于打造 中国最有品质，最受客户信任的教育咨询品牌。"/>
+    <link rel="stylesheet" href="/Public/Home/css/reset.css" />
+    <link rel="stylesheet" href="/Public/Home/css/main.css" />
+    <link rel="stylesheet" href="/Public/Home/css/extend.css"/>
+    <link rel="stylesheet" href="/Public/Home/css/trial.css"/>
+    <link rel="stylesheet" href="/Public/Home/css/overwrite.css"/>
+
+    <script src="/Public/Common/js/jquery182.js"  type="text/javascript"></script>
+    <script src="/Public/Common/js/jquery.cookie.js" type="text/javascript"></script>
+
+    <link rel="stylesheet" href="/Public/Home/js/nprogress/nprogress.css">
+    <script src="/Public/Home/js/nprogress/nprogress.js"></script>
+
+    <!-- 字体加载 -->
+    <link rel="stylesheet" href="/Public/Home/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/Public/Home/css/ionicons.min.css">
+
+    <!-- JS -->
+    <script src="/Public/Common/plus/layer/layer.js"></script>
+    <link rel="stylesheet" href="/Public/Common/plus/layer/skin/layer.css">
+    <script src="/Public/Common/js/common.js"></script>
+    <!-- END -->
+
+    <script>
+        var _UPLOAD_ = '/Uploads';
+        var _ROOT_ = '';
+        $(function() {
+            NProgress.start();
+        });
+        $(window).load(function() {
+            NProgress.done();
+        });
+    </script>
+
+</head>
+<body>
+<!--顶部-->
+
+<div class="container topbar">
+    <div class="wrapper topbar-box">
+        <div class="bar-left">欢迎来到高博教育家-国际课程, 出国语言考试一对一, 一对多在线课堂官方网站</div>
+        <div class="bar-right">
+                            <a href="/index.php/User/Login.html">登录</a>|
+                <a href="/index.php/User/Register.html">免费注册</a>            <!--<a href="">APP下载</a>-->
+        </div>
+        <div class="clear"></div>
+    </div>
+</div>
+<!--logo nav-->
+<div class="container ">
+    <div class="wrapper header">
+        <div class="logo">
+            <a href="/index.php/Index/Index.html"><img src="/Public/Home/img/logo.png" alt="" /></a>
+        </div>
+        <div class="search">
+            <form action="/index.php/Ls/Result.html" method="post">
+                <input type="text" name="keyword" value="" />
+                <button type="submit" style="border:0" class="search-btn"><img src="/Public/Home/img/searchicon.png" /></button>
+            </form>
+        </div>
+    </div>
+    <div class="wrapper nav">
+        <ul>
+            <li class="nav-on" >
+                <a href="/index.php/Index/Index.html">首页</a>
+                <div class="sub-nav">
+                        <a href="/index.php/index.php/Ls/down/set/3/type/3.html">历年真题下载</a><a href="/index.php/Examination/Application/set/2.html">全球大学专业介绍</a><a href="/index.php/Examination/Forecast/set/1.html">精准预测大学录取</a><a href="/index.php/index.php/Ls/Ls/set/1/single/1.html">在线一对一辅导</a>                    </div>                </li><li  >
+                <a href="/index.php/International/Guide/type/1.html">国际课程</a>
+                <div class="sub-nav">
+                        <a href="/index.php/International/Guide/type/1.html">导论</a><a href="/index.php/International/Intro/type/1/category_id/90/set/0.html">DP</a><a href="/index.php/International/Intro/type/1/category_id/20/set/1.html">MYP</a><a href="/index.php/International/Intro/type/1/category_id/1/set/2.html">A-Level</a><a href="/index.php/International/Intro/type/1/category_id/2/set/3.html">IGCSE</a><a href="/index.php/International/Intro/type/1/category_id/21/set/4.html">AP</a><a href="/index.php/International/Intro/type/1/category_id/22/set/5.html">IFD</a><a href="/index.php/International/TeacherList/type/1.html">名师介绍</a><a href="/index.php/International/OurList/type/1.html">我们的课程</a><a href="/index.php/International/FreeList/type/1.html">免费课视频</a><a href="/index.php/International/ArticleList/type/1.html">文章推荐</a>                    </div>                </li><li  >
+                <a href="/index.php/Ls/Ls/set/0/free/1.html">在线课堂</a>
+                <div class="sub-nav">
+                        <a href="/index.php/index.php/Ls/Ls/set/0/free/1.html">公开课</a><a href="/index.php/index.php/Ls/Ls/set/1/single/1.html">在线一对一</a><a href="/index.php/index.php/Ls/Ls/set/2/single/0.html">直播大课堂</a><a href="/index.php/index.php/Ls/Forum/set/3/type/3.html">学习部落</a><a href="/index.php/index.php/Ls/ArticleList/set/4.html">文章推荐</a>                    </div>                </li><li  >
+                <a href="/index.php/International/Guide/type/2.html">出国语言考试</a>
+                <div class="sub-nav">
+                        <a href="/index.php/International/Guide/type/2.html">导论</a><a href="/index.php/International/Intro/type/2/category_id/19/set/0.html">雅思</a><a href="/index.php/International/Intro/type/2/category_id/4/set/1.html">托福</a><a href="/index.php/International/Intro/type/2/category_id/5/set/2.html">SAT</a><a href="/index.php/International/Intro/type/2/category_id/6/set/3.html">GRE</a><a href="/index.php/International/Intro/type/2/category_id/88/set/4.html">GMAT</a><a href="/index.php/International/TeacherList/type/2.html">名师介绍</a><a href="/index.php/International/OurList/type/2.html">我们的课程</a><a href="/index.php/International/FreeList/type/2.html">免费课视频</a><a href="/index.php/International/ArticleList/type/2.html">文章推荐</a>                    </div>                </li><li  >
+                <a href="/index.php/Examination/Guide.html">留学咨询</a>
+                <div class="sub-nav">
+                        <a href="/index.php/Examination/Guide.html">导论</a><a href="/index.php/Examination/Forecast/set/1.html">大学以及专业预测</a><a href="/index.php/Examination/Application/set/2.html">申请手册</a><a href="/index.php/Examination/Connect/set/3.html">文书对接</a><a href="/index.php/Examination/Sign/set/4.html">签证服务</a><a href="/index.php/Examination/Expert/set/5.html">专家咨询</a><a href="/index.php/Examination/ArticleList/set/6.html">文章推荐</a>                    </div>                </li><li  >
+                <a href="/index.php/Index/recruitment.html">名师招聘</a>
+                <div class="sub-nav">
+                        <a href="/index.php/Index/recruitment.html">人事招聘</a>                    </div>                </li><li  >
+                <a href="/index.php/Index/About.html">关于我们</a>
+                <div class="sub-nav">
+                        <a href="/index.php/Index/About.html">公司简介</a><a href="/index.php/Index/About.html">创始人介绍</a>                    </div>                </li>        </ul>
+    </div>
+</div>
+<div class="clear"></div>
+<script>
+    $.each($('.nav ul li'),function(){
+        $(this).css('width',950/$('.nav ul li').length )
+    })
+</script>
+
+    <script src="/Public/Home/js/main.js"></script>
+    <div class="container index">
+        <div class="wrapper banner">
+            <div id="slideBox" class="slideBox">
+                <div class="hd">
+                    <ul>
+                        <li></li><li></li><li></li><li></li><li></li>                    </ul>
+                </div>
+                <div class="bd">
+                    <ul>
+                        <li><a href="/" target="_blank"><img _src="/Uploads/File/2017-01-11/5875de7cc24fa.PNG" width="1000px" height="398px" /></a></li><li><a href="/" target="_blank"><img _src="/Uploads/File/2017-01-11/5875df40c2129.png" width="1000px" height="398px" /></a></li><li><a href="/" target="_blank"><img _src="/Uploads/File/2017-01-11/5875df6524f47.png" width="1000px" height="398px" /></a></li><li><a href="/" target="_blank"><img _src="/Uploads/File/2017-01-11/5875df87d9ad1.png" width="1000px" height="398px" /></a></li><li><a href="/" target="_blank"><img _src="/Uploads/File/2017-01-11/5875e2d47f50c.png" width="1000px" height="398px" /></a></li>                    </ul>
+                </div>
+                <!-- 下面是前/后按钮代码，如果不需要删除即可 -->
+                <a class="prev" href="javascript:"><img src="/Public/Home/img/banner_left.png"></a>
+                <a class="next" href="javascript:"><img src="/Public/Home/img/banner_right.png"></a>
+            </div>
+        </div>
+        <div class="wrapper middle-quick-link">
+            <a href="/index.php/Ls/down/set/3.html" class="on" style="background-image:url(/Public/HOme/images/index_middle_1.png);border:0;">历年真题下载</a>
+            <a href="/index.php/Examination/Application/set/2.html" style="background-image:url(/Public/HOme/images/index_middle_2.png)">全球大学专业介绍</a>
+            <a href="/index.php/Examination/Forecast/set/1.html" style="background-image:url(/Public/HOme/images/index_middle_3.png);line-height:22px;padding-top:10px;" >大数据精准预测<br />大学录取</a>
+            <a href="/index.php/Ls/Ls/set/1/single/1.html" style="background-image:url(/Public/HOme/images/index_middle_4.png)">在线一对一辅导</a>
+            <div class="clear"></div>
+        </div>
+        <div class="wrapper service">
+            <div class="content" style="padding:0;margin-top:10px;">
+                <div class="tec-intro">
+                    <img data-original="/Public/Home/images/stu1.png" alt=""/>
+                    <img data-original="/Public/Home/images/stu2.png" alt=""/>
+                    <img data-original="/Public/Home/images/stu3.png" alt=""/>
+                    <img data-original="/Public/Home/images/stu4.png" alt=""/>
+                    <div class="clear"></div>
+                </div>
+            </div>
+            <div class="content-foot"></div>
+        </div>
+        <div class="wrapper partner">
+            <div class="title">
+                <img src="/Public/Home/img/he.png" />
+                <span class="pro-title">
+                    专业的教育服务
+                </span>
+                <hr />
+                <span class="profess">
+                    Professional education services
+                </span>
+                <img src="/Public/Home/img/up.png" />
+            </div>
+            <div class="partner-list">
+                <div class="picScroll-left">
+                    <div class="bd">
+                        <ul class="picList">
+                            <li>
+                                <div class="pic"><a href="" target="_blank"><img src="/Uploads/File/2017-01-11/5875e4d880fc0.jpg" width="181" height="62" /></a></div>
+                            </li>                        </ul>
+                    </div>
+                    <div class="hd">
+                        <a class="next"></a><a class="prev"></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="clear"></div>
+
+
+<div class="container footer">
+    <div class="wrapper footer-box">
+        <div class="link">
+            <p>友情链接</p>
+            <img src="/Public/Home/img/line.png" />
+            <dl>
+                <dt></dt>
+                <dd><a href="https://ielts.etest.net.cn/?_ga=1.195632044.1877877618.1435800178#" title="雅思报名" target="_blank">雅思报名</a></dd><dd><a href="http://www.shanghairanking.com/" title="上海交大版世界大学排名" target="_blank">上海交大版</a></dd><dd><a href="https://gre.etest.net.cn/login.do?lang=CN" title="GRE报名官网" target="_blank">GRE报名</a></dd><dd><a href="https://www.ucas.com/" title="UCAS" target="_blank">UCAS</a></dd><dd><a href="https://www.commonapp.org/" title="Common Application" target="_blank">Commo</a></dd><dd><a href="https://www.timeshighereducation.com/world-university-rankings" title="THE 大学排名" target="_blank">THE 大</a></dd>            </dl>
+        </div>
+        <div class="right-box">
+            <div class="relation">
+                <div class="title">
+                    <img src="/Public/Home/img/phone.png" />
+                    <span class="text">全国免费服务热线</span>
+                </div>
+                <span class="num">
+                    020-31147006                </span>
+                <span class="num" style="display:block;font-size:14px!important;line-height:22px;margin-top:5px;">
+                    地址：广州市番禺区奥园城市天地6栋2109室                </span>
+                <span class="num" style="display:block;font-size:14px!important;line-height:22px;margin-top:5px;">
+                    邮编：                </span>
+            </div>
+            <div class="code">
+                <img src="/Public/Home/images/qrcode.jpg" width="145px"/>
+            </div>
+        </div>
+
+    </div>
+</div>
+<!--copyright-->
+<div class="container copyright">
+    <div class="wrapper content">
+        <div class="foot-logo">
+            <a href="{modelUrl(U('Index/Index'),'index')}"><img src="/Public/Home/img/slogo.png"/></a>
+        </div>
+        <div class="text">
+            <span class="">
+                Copyright © 2016 Guangzhou Gaobo Educator.            </span>
+            <span class="all">
+                粤ICP备16076499号                <!-- All rights reserved -->
+            </span>
+        </div>
+    </div>
+</div>
+
+<div class="slider" style="right:200px;">
+    <a href="tencent://message/?uin=1749178942&Site=&Menu=yes" class="customer">
+        <img src="/Public/Home/img/call.png"/>
+        <p>客服</p>
+    </a>
+    <a href="javascript:" class="WeChat">
+        <div class="content ">
+            <img src="/Public/Home/img/wetcharicon.png" style="margin-top:10px;" />
+            <!--<p>微信</p>-->
+        </div>
+        <div class="show ">
+            <img src="/Public/Home/images/qrcode.jpg" width="200px"/>
+        </div>
+    </a>
+        <a href="/Uploads/File/2017-04-18/58f613b5cc411.png" target="_blank" class="arrange">
+        <img src="/Public/Home/images/foot-right-icon01.png" />
+        <p>用户指南</p>
+    </a>
+    <a href="javascript:;" onclick="
+        layer.open({
+            type: 1,
+            skin: 'layui-layer-gaobo', //样式类名
+            title:'网站反馈',
+            closeBtn: 0, //不显示关闭按钮
+            shift: 2,
+            shadeClose: true, //开启遮罩关闭
+            content: $('.modal-box-feedback')
+        });" class="arrange">
+        <img src="/Public/Home/images/foot-right-icon02.png" />
+        <p>意见建议</p>
+    </a>
+    <a href="javascript:" onclick="ToTop();" class="goback">
+        <div class="top">
+            <img src="/Public/Home/img/top.png"/>
+            <p>返回顶部</p>
+        </div>
+    </a>
+</div>
+
+<div class="modal-box modal-box-course">
+    <!--<div class="modal-title">
+        <span>课程安排</span>
+    </div>-->
+    <div class="modal-content">
+        <table class="course-range">
+            <tr>
+                <th width="150px">上课时间</th>
+                <th>课程</th>
+                <th>课程类型</th>
+                <th></th>
+            </tr>
+                    </table>
+    </div>
+    <div class="modal-footer">
+        <div class="btn-group">
+            <button type="button" onclick="window.location.href = '/tec.php/Index/Index.html'">查看详情</button>
+        </div>
+    </div>
+</div>
+
+<div class="modal-box modal-box-feedback">
+    <div class="modal-content">
+        <form action="/index.php/Public/feedback.html" id="feedback" onsubmit="return false;">
+        <div class="feedback">
+            <p>请填写您的反馈信息，我们会尽快完善。谢谢！</p>
+            <textarea name="message" ></textarea>
+            <input type="text" placeholder="验证码" name="code" />
+            <img src="/index.php/Entrance/Verify.html" _src="/index.php/Entrance/Verify.html" height="28px" style="float:left;" onclick="refresh(this)" alt=""/>
+            <div class="clear"></div>
+        </div>
+        </form>
+    </div>
+    <div class="modal-footer">
+        <div class="btn-group">
+            <button type="button" class="ajax-submit ajax-post" data-form="feedback">确定</button>&nbsp;&nbsp;&nbsp;
+            <button type="button" class="cancel" onclick="layer.closeAll();">取消</button>
+        </div>
+    </div>
+</div>
+
+<div class="activity">
+    <div class="close">
+        <a href="javascript:"><img src="/Public/Home/img/close.png"/></a>
+    </div>
+        <a href="/" target="_blank"><div class="img" style="background:none;"><img src="/Uploads/File/2016-11-25/5838037f823eb.png" width="120px" height="80px" /></div></a></div>
+
+</body>
+</html>
+<script>
+    $('.WeChat').mouseover(function(){
+        $(this).children().last().show()
+    })
+
+    $('.WeChat').mouseleave(function(){
+        $(this).children().last().hide()
+    })
+
+    var activity = $.cookie('activity');
+    if( activity ){
+        $('.activity').hide();
+    }
+    $('.activity .close').click(function(){
+        $.cookie('activity', 1,{ path:'/'});
+        $(this).parent().remove();
+    })
+
+    var window_w = $(window).width();
+    var right = ( window_w - 1030 ) / 2 ;
+    var slider_w = $('.slider').css('width')
+    $('.slider').css('right',right - parseInt(slider_w) +'px')
+    $('.activity').css('right',right - parseInt(slider_w) +'px')
+
+
+    var i = 0;
+    $(window).resize(function(){
+        var window_w = $(window).width();
+        var right = ( window_w - 1000 ) / 2 ;
+        var slider_w = $('.slider').css('width')
+        $('.slider').css('right',right - parseInt(slider_w) +'px')
+        $('.activity').css('right',right - parseInt(slider_w) +'px')
+    })
+
+    function ToTop(){
+        $('body,html').animate({
+            scrollTop:0
+        },'fast','swing')
+    }
+
+    function refresh(obj){
+        var url = $(obj).attr('_src');
+        $(obj).attr('src',url+'?t='+Math.random(100000,999999))
+        $(obj).css('backgroundImage','url('+url+'?t='+Math.random(100000,999999)+')')
+    }
+
+    $(document).on('click','.code',(function(){
+        $(this).attr('src',$(this).attr('src')+'?t='+Math.random());
+    }))
+</script>
+
+<script src="/Public/Common/plus/datetimepicker/jquery.datetimepicker.js"></script>
+<link rel="stylesheet" type="text/css" href="/Public/Common/plus/datetimepicker/jquery.datetimepicker.css"/>
+<script>
+    $('input.date').datetimepicker({
+        lang:"ch",
+        format:'Y-m-d',
+        timepicker:false
+    });
+    $('input.time').datetimepicker({
+        lang:"ch",
+        datepicker:false,
+        format:'H:i'
+    });
+    $('input.clock').datetimepicker({
+        lang:"ch",
+        format:'Y-m-d H:i'
+    });
+
+
+
+    /**
+     * 清楚考试缓存
+     * @param obj
+     */
+    function clear_exam(obj) {
+        window.event.preventDefault();
+        $.ajax({
+            url : "/index.php/Trial/Clear.html",
+            success: function(){
+                if( $(obj).attr('target') == '_blank' ){
+                    window.open(obj.getAttribute('href'));
+                }else{
+                    window.location.href = obj.getAttribute('href');
+                }
+            }
+        })
+    }
+</script>
+<script> var _hmt = _hmt || []; (function() { var hm = document.createElement("script"); hm.src = "https://hm.baidu.com/hm.js?662635f98ecc3c6cd35a41795f24b742"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(hm, s); })(); </script>
+<style>
+    .xdsoft_datetimepicker { z-index:100000000;  }
+</style>
+
+    <script src="/Public/Common/js/jquery.lazyload.min.js"></script>
+    <script type="text/javascript" src="/Public/Common/plus/superslider/jquery.SuperSlide.2.1.1.js"></script>
+    <script type="text/javascript">
+        jQuery(".slideBox").slide({mainCell:".bd ul",autoPlay:true,switchLoad:'_src'});
+        jQuery(".picScroll-left").slide({titCell:".hd ul",mainCell:".bd ul",autoPage:true,effect:"left",autoPlay:true,vis:6,trigger:"click"});
+        $("img").lazyload({effect: "fadeIn"});
+    </script>
