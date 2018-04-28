@@ -40,8 +40,8 @@
 
 .new-tab-1 { background:#fff;padding-top:30px; }
 .new-tab-1 .title {font-size: 30px;color:#1c509a;font-weight:bold;text-align:center;}
-.new-tab-1 .new-tab-content { margin-top:20px; }
-.new-tab-1 .bag img { float:left;max-width:100%;margin:0 70px; }
+.new-tab-1 .new-tab-content {margin-top:20px;text-align:  center;}
+.new-tab-1 .bag img {width: 60%;margin:0 70px;}
 .new-tab-1 .new-tab-content .label {color:#1565c0;font-size: 22px;font-weight:bold;text-indent:60px;}
 .new-tab-1 .new-tab-list { padding:0 60px;padding-top:40px;box-sizing:border-box; }
 .new-tab-1 .new-tab-list a {float:left;overflow:hidden;width:16%;font-size: 18px;margin-right:4%;height:50px;line-height:50px;color:#525252;box-shadow:0 3px 6px 0 rgba(0,0,0,0.16);border-radius:3px;margin-bottom:36px;text-align:center;}
